@@ -57,5 +57,5 @@ def display_board(board)
     counter
   end
 
-#bin
+
 
